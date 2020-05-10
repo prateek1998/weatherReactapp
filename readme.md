@@ -1,1 +1,1 @@
-[create an anchor](#anchors-in-markdown)
+# add-banner [![NPM version](https://img.shields.io/npm/v/add-banner.svg?style=flat)](https://www.npmjs.com/package/add-banner) [![NPM monthly downloads](https://img.shields.io/npm/dm/add-banner.svg?style=flat)](https://npmjs.org/package/add-banner) [![NPM total downloads](https://img.shields.io/npm/dt/add-banner.svg?style=flat)](https://npmjs.org/package/add-banner) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/add-banner.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/add-banner)
